@@ -1,0 +1,8 @@
+{
+    "name": "ibexa/vendor",
+    "description": "Ibexa - Digital Experience Platform for Your Business - B2B DXP",
+    "homepage": "https://www.ibexa.co",
+    "type": "project",
+    "license": "GPL-2.0-only",
+    "require": {}
+}
